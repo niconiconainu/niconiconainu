@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyosuke-Kaneko&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kyosuke-Kaneko&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&theme=tokyonight&line_height=20px)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kyosuke-Kaneko&theme=juicyfresh&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyosuke-Kaneko&theme=dracula)
