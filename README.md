@@ -1,5 +1,5 @@
 <!-- Anurag's GitHub stats -->
-<img width="700px"  src="https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=20px&custom_title=Kyosuke's　Activity&layout=compact">
+<img width="680px"  src="https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=20px&custom_title=Kyosuke's　Activity&layout=compact">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kyosuke-Kaneko&theme=chalk&row=1&margin-h=5&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -10,7 +10,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyosuke-Kaneko&theme=dracula&count_private=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyosuke-Kaneko&theme=dracula)
-<img align="center" width="670px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyosuke-Kaneko&count_private=true&include_all_commits=true&layout=compact&theme=radical&custom_title=My　repository">
+<img align="center" width="650px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyosuke-Kaneko&count_private=true&include_all_commits=true&layout=compact&theme=radical&custom_title=My　repository">
 <!-- [Top Langs] -->
 
 
