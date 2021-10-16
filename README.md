@@ -10,7 +10,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyosuke-Kaneko&theme=dracula&count_private=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyosuke-Kaneko&theme=dracula)
-<img align="center" width="650px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyosuke-Kaneko&count_private=true&include_all_commits=true&layout=compact&theme=radical&custom_title=My　repository">
+<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyosuke-Kaneko&count_private=true&include_all_commits=true&layout=compact&theme=radical&custom_title=My　repository">
 <!-- [Top Langs] -->
 
 
