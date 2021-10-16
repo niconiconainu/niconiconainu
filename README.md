@@ -1,6 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyosuke-Kaneko&count_private=true&include_all_commits=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=20px&custom_title=Kyosuke's　Activity)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kyosuke-Kaneko&theme=chalk&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="500px"  src="https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=20px&custom_title=Kyosuke's　Activity">
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=10px&custom_title=Kyosuke's　Activity)](https://github.com/anuraghazra/github-readme-stats) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kyosuke-Kaneko&theme=chalk&row=1&margin-h=5&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyosuke-Kaneko&theme=dracula)
