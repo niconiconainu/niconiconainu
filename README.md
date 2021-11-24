@@ -1,9 +1,5 @@
 <!-- Anurag's GitHub stats -->
-<!-- <img width="680px"  src="https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=20px&custom_title=Kyosuke's　Activity&layout=compact">
- -->
- <img src="https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=20px&custom_title=Kyosuke's　Activity&layout=compact">
-
-
+<img width="680px"  src="https://github-readme-stats.vercel.app/api?username=Kyosuke-Kaneko&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=20px&custom_title=Kyosuke's　Activity&layout=compact">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kyosuke-Kaneko&theme=chalk&row=1&margin-h=5&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
