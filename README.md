@@ -1,7 +1,6 @@
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=%20%E7%8A%AC%20%E3%81%A8%20Web3.0%20%E3%81%8C%20%E3%81%99%E3%81%8D%20&l0=fbf5ff&l1=3feeee&l2=02e9ed&l3=4682b4&l4=1e90fe&speed=300&comment="></a>
 
 <h3 align="left">Stats📊:</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niconiconainu&theme=dracula" alt="GitHub Streak Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niconiconainu&theme=dracula" alt="Profile Details" />
 
 <div>
