@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/niconiconainu/niconiconainu/main/profile-summary-card-output/swift/2-most-commit-language.svg)
-```
-
-    
