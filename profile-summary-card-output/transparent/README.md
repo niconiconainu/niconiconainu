@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/niconiconainu/niconiconainu/main/profile-summary-card-output/transparent/2-most-commit-language.svg)
+```
+
+    
