@@ -22,9 +22,6 @@ I take products end to end — domain model, API, infrastructure, store submissi
 writing that comes after. Most of the day-to-day execution is delegated to a fleet of AI agents
 I orchestrate; my job is the part they can't do — deciding what is worth building, and saying no.
 
-Mobile is where I ship today. Before that it was the web, and I still work comfortably in
-**Laravel** and **Vue** — a good part of what I've built runs on them.
-
 **I build in public** on [**@tinkerpochi**](https://x.com/tinkerpochi) — the failures included.
 A greyed-out subscribe button that got an app rejected; a day lost to Android console
 configuration. Those tend to be the useful posts.
