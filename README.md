@@ -22,9 +22,10 @@ I take products end to end — domain model, API, infrastructure, store submissi
 writing that comes after. Most of the day-to-day execution is delegated to a fleet of AI agents
 I orchestrate; my job is the part they can't do — deciding what is worth building, and saying no.
 
-**I build in public** on [**@tinkerpochi**](https://x.com/tinkerpochi) — the failures included.
-A greyed-out subscribe button that got an app rejected; a day lost to Android console
-configuration. Those tend to be the useful posts.
+**I build in public** on [**@tinkerpochi**](https://x.com/tinkerpochi). Right now that means
+[**Shipaton 2026**](https://www.shipaton.com/) — RevenueCat's two-month hackathon, running
+August through September — where I'm shipping two apps and posting the whole run as it goes.
+Easily the most fun I've had building in a long time.
 
 <br>
 
@@ -36,7 +37,7 @@ configuration. Those tend to be the useful posts.
 
 **Mobile**
 
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&logo=revenuecat&logoColor=white)
 
 **Front-end**
 
