@@ -1,19 +1,27 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: '* */24 * * *'
+  schedule:
+    # 以前は '* */24 * * *'（＝毎日0時台の毎分）で、実質1日2回走っていた。
+    - cron: '0 21 * * *' # 毎日 06:00 JST に1回だけ
   workflow_dispatch:
+
+concurrency:
+  group: summary-cards
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9 # 稼働時間のグラフを JST で出す（既定は UTC）

@@ -1,9 +1,16 @@
 name: Generate Snek
 
 on:
-  # schedule:
-    # - cron: "0 */6 * * *"  # 6時間ごとに実行（フォーマット修正）
-  workflow_dispatch:  # 手動実行用
+  schedule:
+    - cron: '30 21 * * *' # 毎日 06:30 JST
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+# snek ブランチへの push が衝突するので同時に走らせない
+concurrency:
+  group: snek
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -12,25 +19,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3  # リポジトリをチェックアウト（追加）
-      
+      - uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snek-dark.svg?palette=github-dark&color_snake=blue&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
-            dist/snek-light.svg?palette=github-light&color_snake=lightblue&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-      
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: snek
-          path: dist
-      
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+            dist/snek-dark.svg?palette=github-dark&color_snake=#1e90fe&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
+            dist/snek-light.svg?palette=github-light&color_snake=#12b8c8&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+
+      # upload-artifact は外した。v3 は 2025-01 に停止しており、
+      # 成果物は下の snek ブランチに出るので二重に保存する意味がない。
+      - name: Deploy to snek branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: snek
           build_dir: dist
