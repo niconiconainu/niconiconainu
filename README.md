@@ -8,6 +8,8 @@
 
 <br><br>
 
+[![X — English](https://img.shields.io/badge/EN-%40tinkerpochi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tinkerpochi) [![X — 日本語](https://img.shields.io/badge/JA-%40niconiconainu-30363D?style=for-the-badge&logo=x&logoColor=white)](https://x.com/niconiconainu)
+
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/nicoinu) [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/niconiconainu) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nicoinu)
 
 </div>
@@ -23,8 +25,9 @@ and the writing that comes after. Most of the day-to-day execution is delegated 
 AI agents I orchestrate; my job is the part they can't do — deciding what is worth building,
 and saying no.
 
-**I build in public.** The failures included — a greyed-out subscribe button that got an app
-rejected, a day lost to Android console configuration. Those tend to be the useful posts.
+**I build in public** on [**@tinkerpochi**](https://x.com/tinkerpochi) — the failures included.
+A greyed-out subscribe button that got an app rejected; a day lost to Android console
+configuration. Those tend to be the useful posts.
 
 <br>
 
